@@ -1,4 +1,4 @@
-# Forex Trading Strategy Analysis and Simulation
+# Forex Trading Strategy Analysis and Simulation with GPU Training
 
 ## Project Overview
 
