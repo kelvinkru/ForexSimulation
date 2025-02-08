@@ -14,7 +14,7 @@ This project presents a comprehensive analysis and simulation of a Forex trading
 
 2. **Defining Parameters and Date Ranges**
 
-   Set date ranges for training (`2022-01-01` to `2022-12-31`), validation (`2023-01-01` to `2023-05-31`), and testing (`2023-06-01` to `2023-10-31`) datasets.
+   Set date ranges for training (`2022-01-01` to `2023-03-31`), validation (`2023-04-01` to `2023-09-30`), and testing (`2023-10-01` to `2024-03-31`) datasets.
 
    Establish trading hours, profit targets, stop-loss parameters, leverage factors, and simulation settings.
 
